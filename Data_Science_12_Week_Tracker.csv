@@ -1,0 +1,13 @@
+Week,Start Date,End Date,Focus Areas,Projects / Output,Hours Planned,Hours Completed,Notes
+Week 1,2025-05-11,2025-05-15,"Python basics (variables, loops, functions), setup Colab or Anaconda, start SQL (Mode SQL Tutorial - Beginner)","Mini Python programs (calculator, simple logic games)",20,,Python: https://www.learnpython.org/ | SQL: https://mode.com/sql-tutorial/
+Week 2,2025-05-18,2025-05-22,"pandas, NumPy, intermediate SQL, descriptive statistics (mean, median, std dev)","Basic EDA on small dataset (CSV), visualize in pandas",20,,pandas: https://pandas.pydata.org/docs/ | Stats: https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1 (StatQuest)
+Week 3,2025-05-25,2025-05-29,"Data cleaning, seaborn/matplotlib for visualizations, intermediate SQL joins",Visualize financial KPIs or sales data trends,20,,Matplotlib: https://matplotlib.org/stable/gallery/index.html | seaborn: https://seaborn.pydata.org/examples/index.html
+Week 4,2025-06-01,2025-06-05,Complete Project 1: Financial Analysis in Python | Learn confidence intervals and sampling,Project 1: Analyze 5 years of financial data (public stocks),20,,Data source: https://www.kaggle.com/ | Yahoo Finance for stock data | GitHub Portfolio Tips: https://github.com/ossu/data-science/blob/master/project-guidelines.md
+Week 5,2025-06-08,2025-06-12,,,20,,
+Week 6,2025-06-15,2025-06-19,,,20,,
+Week 7,2025-06-22,2025-06-26,,,20,,
+Week 8,2025-06-29,2025-07-03,,,20,,
+Week 9,2025-07-06,2025-07-10,,,20,,
+Week 10,2025-07-13,2025-07-17,,,20,,
+Week 11,2025-07-20,2025-07-24,,,20,,
+Week 12,2025-07-27,2025-07-31,,,20,,
