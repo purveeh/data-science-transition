@@ -1,2 +1,3 @@
 # data-science-transition
-Transition from finance to data science
+“Tracking my 12-week transition from finance to data science”
+
